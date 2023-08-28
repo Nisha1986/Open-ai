@@ -11,7 +11,7 @@
 >Use intent classification to identify the most relevant instructions for a user query
 >For dialogue applications that require very long conversations, summarize or filter previous dialogue
 >Summarize long documents piecewise and construct a full summary recursively
->-------------Thinking Time to GPT---------------------------
+-------------Thinking Time to GPT---------------------------
 >Instruct the model to work out its own solution before rushing to a conclusion
 >Use inner monologue or a sequence of queries to hide the model's reasoning process
 >Ask the model if it missed anything on previous passes
